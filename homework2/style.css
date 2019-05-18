@@ -1,0 +1,18 @@
+#divPageHome {
+  /* border: 1px solid red; */
+}
+
+.wrapper {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.wrapper input {
+  margin: 3px;
+}
+
+#table td {
+  border: 1px solid black;
+}
