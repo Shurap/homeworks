@@ -7,19 +7,11 @@
     <main>
       <h1>Homework 1</h1>
       <h2>Task 2</h2>
-      <button onClick="location.href='http://google.com'">Go to google.com</button>
-      <button onClick="handleClick()">Clear all and insert block</button>
+      <button onClick="goToOtherPage()">Go to google.com</button>
+      <button onClick="makeNewPage()">Clear all and insert block</button>
     </main>
   </body>
 
-  <script>
-    function handleClick() {
-      document.body.innerHTML = '<section>\
-                                  <h1>New Block</h1>\
-                                  <h2>Homework 1</h2>\
-                                  <h2>Task 2</h2>\
-                                </section>'
-    }
-  </script>
+  <script src="./script.js"></script>
 
 </html>
