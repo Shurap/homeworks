@@ -1,0 +1,21 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.wrapper input {
+  margin: 3px;
+}
+
+#table td {
+  border: 1px solid black;
+}
+
+#tableInfo {
+  display: flex;
+}
+
+#tableInfo td { 
+  display: block; border: 1px solid black; 
+}
