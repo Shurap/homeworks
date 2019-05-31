@@ -1,0 +1,93 @@
+{
+	"type": "Collection",
+	"properties": {
+		"type": {
+			"name": "type",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "type",
+			"order": 0
+		},
+		"manufactured": {
+			"name": "manufactured",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "manufactured",
+			"order": 1
+		},
+		"numberCpuCores": {
+			"name": "numberCpuCores",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "numberCpuCores",
+			"order": 2
+		},
+		"processorType": {
+			"name": "processorType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "processorType",
+			"order": 3
+		},
+		"videocardType": {
+			"name": "videocardType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "videocardType",
+			"order": 4
+		},
+		"hddType": {
+			"name": "hddType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "hddType",
+			"order": 5
+		},
+		"hddSize": {
+			"name": "hddSize",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "hddSize",
+			"order": 6
+		},
+		"monitorSizeNotebook": {
+			"name": "monitorSizeNotebook",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "monitorSizeNotebook",
+			"order": 7
+		},
+		"batteryNotebook": {
+			"name": "batteryNotebook",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "batteryNotebook",
+			"order": 8
+		},
+		"typeServer": {
+			"name": "typeServer",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "typeServer",
+			"order": 9
+		},
+		"powerServer": {
+			"name": "powerServer",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "powerServer",
+			"order": 10
+		}
+	}
+}
